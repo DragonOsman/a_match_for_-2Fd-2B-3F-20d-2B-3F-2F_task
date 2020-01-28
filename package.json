@@ -1,0 +1,31 @@
+{
+  "name": "a_match_for_lazy_pattern_task",
+  "version": "1.0.0",
+  "description": "Javascript.info task \"A match for /d+? d+?/\" solution",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/a_match_for_%2Fd%2B%3F%20d%2B%3F%2F_task.git"
+  },
+  "keywords": [
+    "javascript.info",
+    "javascript.info-task",
+    "regexp",
+    "lazy-pattern",
+    "lazy-and-greedy",
+    "lazy",
+    "greedy",
+    "task-solution"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
