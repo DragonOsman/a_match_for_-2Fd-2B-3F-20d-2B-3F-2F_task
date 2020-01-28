@@ -3,4 +3,4 @@
 
 const str = "123 456";
 
-alert(str.match(/\d+? \d+?/)); // 123_4
+alert(str.match(/\d+? \d+?/)); // 123 4
